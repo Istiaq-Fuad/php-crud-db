@@ -11,6 +11,8 @@
 <body class="bg-light">
     <div class="container mt-5">
         <h1 class="text-center mb-4">Book Store</h1>
+        <a href="add.php" class="btn btn-success mb-3 ml-auto">Add New Book</a>
+
 
         <!-- Search Form -->
         <form method="GET" class="mb-4">
